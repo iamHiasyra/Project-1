@@ -51,7 +51,7 @@ nav li {
 .sect1 > img {
     width: 100%;
     overflow: hidden;
-    
+    position: relative;
     z-index: -1;
     
 }
@@ -130,18 +130,49 @@ button:hover {
     border-color: black;
 }
 
-/*header
-{
-    text-align: center;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 10%;
-    background-color: rgba(0, 0, 0, 0.5);
+@media (max-width: 1000px) {
+    
+    header > .logo > img 
+    {
+        position: relative;
+        left: 35%;
+    }
+
+    header > nav {
+        display: none;
+    } 
+
+    button {
+        display: none;
+    }
+
+    nav > ul > li{
+        font-size: 15px;
+    }
+
+    .text1 {
+        flex-direction: column;
+        position: relative;
+        font-size: 10px;
+        transform: translateY(-100%);
+
+    }
+
+    .text1 > h1 {
+        font-size: 20px;
+        width: 100%;
+        position: relative;
+        text-align: center;
+        left: 3%;
+        transform: translateY(100%);
+    }
+
+    .text1 > ul > li > a {
+        font-size: 15px;
+  
+    }
+
+    .container {
+        display: none;
+    }
 }
-header > ul{
-    list-style: none;
-    display: flex;
-    justify-content: space-evenly;
-}
-*/
