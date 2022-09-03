@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+body
+{
+    box-sizing: border-box;
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+
+    display: grid;
+    grid-template-areas: 
+    "header "
+    "main"
+    "footer";
+}
+
+header {
+    z-index: 2;
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+
+.logo img{
+    width: 50%;
+    filter: brightness(1); 
+}
+
+
+.logo, a, li, button{
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Yeseva One', cursive;
+}
+
+ul{
+list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.sect1 > img {
+    width: 100%;
+    overflow: hidden;
+    
+    z-index: -1;
+    
+}
+
+.sect1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text1 {
+    position: absolute;
+    transform: translateY(10px);
+    width: 100vw;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.text1 > h1 {
+    font-size: 4rem;
+    width: 21vw;
+    text-transform: uppercase;
+    font-family: 'Montserrat', serif;
+    text-shadow: 5px 1px 1px rgba(255,255,255,1);
+
+}
+
+.text1 > ul > li > a {
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Montserrat', serif;
+    color: rgb(249, 249, 249);
+    text-shadow: 5px 1px 1px rgba(0,0,0,1);
+}
+
+.text1 > ul > li {
+    text-align: justify;
+    border: 6px solid black ;
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: black;
+}
+
+.text1>ul>li:hover{
+    background-color: rgba(0,0,0,0);
+    transition: 0.5s;
+}
+
+
+.container {
+    background-color: black;
+    border: 1px solid black;
+    width: 100%;
+    height: 10vh;
+}
+
+button {
+    height: 5vmin;
+    width: 12vmin;
+    border-radius: 25px;
+    border: 1px solid white;
+    padding: 0px;
+    font-size: 14px;
+    background-color: black;
+    color: antiquewhite;
+}
+
+button:hover {
+    background-color: yellow;
+    color: black;
+    border-color: black;
+}
+
+/*header
+{
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+header > ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+*/

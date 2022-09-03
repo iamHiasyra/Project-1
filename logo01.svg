@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10pc"
+   height="10pc"
+   viewBox="0 0 42.333333 42.333333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo01.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="40.624966"
+       y="70.559151"
+       width="25.000004"
+       height="25"
+       id="rect841" />
+    <rect
+       x="45.168156"
+       y="73.610863"
+       width="17.4814"
+       height="17.764881"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-81.049555"
+     inkscape:cy="187.42957"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g841"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="pc" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.901235">
+    <text
+       xml:space="preserve"
+       id="text839"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect841);fill:#000000;fill-opacity:1;stroke:none;" />
+    <g
+       id="g841"
+       transform="translate(-31.958299,-61.892484)"
+       style="fill:#fffffe;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.32292;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="rect8"
+         width="25"
+         height="25"
+         x="40.624966"
+         y="70.559151" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:11.4103px;font-family:sans-serif;letter-spacing:2.64583px;fill:#fffffe;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         x="47.225315"
+         y="77.520836"
+         id="text847"
+         transform="scale(0.96007361,1.0415868)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#fffffe;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           sodipodi:role="line"
+           id="tspan855"
+           x="47.225315"
+           y="77.520836">CZ</tspan><tspan
+           sodipodi:role="line"
+           x="47.225315"
+           y="88.99794"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#fffffe;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           id="tspan849">VI</tspan></text>
+    </g>
+  </g>
+</svg>
